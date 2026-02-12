@@ -1,6 +1,6 @@
 import gradio as gr
-from model_loader import load_model
-from teaching_plan import generate_teaching_plan
+from LLM_TWIN.model_loader import load_model
+from LLM_TWIN.teaching_plan import generate_teaching_plan
 
 # Load model once (cached by Spaces)
 model, tokenizer = load_model()
