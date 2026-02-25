@@ -13,6 +13,8 @@ The goal is to create an AI system that mimics an individual's:
 This project demonstrates **end-to-end LLM engineering**, covering data pipelines, embeddings, retrieval systems, fine-tuning workflows, and inference deployment.
 
 ---
+# Check it out here with my finetuned model as well
+https://huggingface.co/spaces/Mohi117/nitish-sir-style-llm-demo
 
 # 🚀 Project Objective
 
